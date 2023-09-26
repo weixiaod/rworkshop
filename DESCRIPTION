@@ -1,6 +1,6 @@
 Package: simulatr
 Type: Package
-Title: Generator for Reproducible Fake Data 
+Title: Generator for Reproducible Fake Data hh
 Version: 0.1.0.9001
 Date: 2023-02-10
 Authors@R: c(
